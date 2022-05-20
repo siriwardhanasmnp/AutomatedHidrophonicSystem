@@ -2,7 +2,7 @@
  * DHT_11.c
  *
  * Created: 4/20/2021 9:05:37 AM
- *  Author: Diniki
+ *  Author: Navodya
  */ 
 
 #include "functions.h"
