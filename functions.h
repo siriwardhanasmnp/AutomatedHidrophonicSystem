@@ -2,7 +2,7 @@
  * functions.h
  *
  * Created: 4/20/2021 9:05:09 AM
- *  Author: Diniki
+ *  Author: Navodya
  */ 
 
 
