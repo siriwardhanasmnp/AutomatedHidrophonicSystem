@@ -2,7 +2,7 @@
  * Project_Complete.c
  *
  * Created: 4/19/2021 11:10:16 PM
- * Author : Diniki
+ * Author : Navodya
  */ 
 
 #define F_CPU 8000000UL
